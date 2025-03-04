@@ -13,9 +13,9 @@
 
 <br/>
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%">
+    <td width="50%" style="border: none; padding: 10px;">
       <h3 align="center">🛠️ My Streak 🛠️</h3>
       <p align="center">
         <a href="https://git.io/streak-stats">
@@ -23,7 +23,7 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" style="border: none; padding: 10px;">
       <h3 align="center">🏆 Baekjoon solved rank 🏆</h3>
       <p align="center">
         <a href="https://solved.ac/tjdals546">
