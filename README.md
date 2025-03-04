@@ -2,7 +2,7 @@
   
 <h2> ssm-kim's github <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></a> </h2> 
   
-  Developing services to solve the common challenges of DAILY LIFE. <br>
+  Creating backend solutions for everyday challenges. <br>
   
 </div>
 
@@ -19,16 +19,15 @@
 
 ---
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=ssm-kim&theme=blueberry_duo)](https://github.com/tjdals546)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=ssm-kim&theme=blueberry_duo)](https://github.com/ssm-kim)
 
 <br/>
 
 ### <p>🏆 Baekjoon solved rank 🏆</p> 
 
+---
 
-<div align="center">
   [![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals546)](https://solved.ac/tjdals546)
-</div>
 
 **Programming Languages :** **![Java](https://img.shields.io/badge/Java-orange?logo=java)** 
 
