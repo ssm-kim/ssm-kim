@@ -27,7 +27,7 @@
 
 ---
 
-  [![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals546)](https://solved.ac/tjdals546)
+  [![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssm-kim)](https://solved.ac/tjdals546)
 
 **Programming Languages :** **![Java](https://img.shields.io/badge/Java-orange?logo=java)** 
 
