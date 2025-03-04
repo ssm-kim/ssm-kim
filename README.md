@@ -13,22 +13,23 @@
 
 <br/>
 
-
-
-### 🛠️ My Streak 🛠️
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ssm-kim&theme=blueberry_duo)](https://git.io/streak-stats)
-
-<br/>
-
-### <p>🏆 Baekjoon solved rank 🏆</p> 
-
----
-
-  [![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals546)](https://solved.ac/tjdals546)
-
-**Programming Languages :** **![Java](https://img.shields.io/badge/Java-orange?logo=java)** 
-
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛠️ My Streak 🛠️</h3>
+      <p align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssm-kim&theme=blueberry_duo" alt="GitHub Streak" width="100%">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏆 Baekjoon solved rank 🏆</h3>
+      <p align="center">
+        <a href="https://solved.ac/tjdals546">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals546" alt="Solved.ac Profile" width="100%">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
