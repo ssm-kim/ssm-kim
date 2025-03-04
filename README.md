@@ -19,7 +19,7 @@
 
 ---
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=ssm-kim&theme=blueberry_duo)](https://github.com/noxknow)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=ssm-kim&theme=blueberry_duo)](https://github.com/tjdals546)
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  [![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=noxknow)](https://solved.ac/tjdals546)
+  [![Solved.ac Profile - Java](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjdals546)](https://solved.ac/tjdals546)
 </div>
 
 **Programming Languages :** **![Java](https://img.shields.io/badge/Java-orange?logo=java)** 
