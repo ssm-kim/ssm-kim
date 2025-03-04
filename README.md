@@ -19,7 +19,7 @@
 
 ---
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=ssm-kim&theme=blueberry_duo)](https://github.com/ssm-kim)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjdals546&theme=blueberry_duo)](https://git.io/streak-stats)
 
 <br/>
 
