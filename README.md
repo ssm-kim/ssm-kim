@@ -21,7 +21,7 @@
       <h3 align="center">⚡ My Streak</h3>
       <p align="center">
         <a href="https://git.io/streak-stats">
-          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ssm-kim&theme=dark" alt="GitHub Streak" width="100%">
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=ssm-kim&theme=vue" alt="GitHub Streak" width="100%">
         </a>
       </p>
     </td>
